@@ -58,8 +58,9 @@ The analysis provided valuable insights into the biodiversity across different p
    git clone [repository link]
 
 2. Install the required packages:
+ ```bash
    pip install -r requirements.txt
-   
-Usage
+
+## Usage
 Load the datasets into the project.
 Run the provided Jupyter notebooks to perform the analysis and generate visualizations.
