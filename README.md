@@ -52,15 +52,3 @@ The analysis provided valuable insights into the biodiversity across different p
 - Conduct a detailed analysis of specific species with high or low observations.
 - Examine park-specific conservation efforts.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone [repository link]
-
-2. Install the required packages:
- ```bash
-   pip install -r requirements.txt
-
-## Usage
-Load the datasets into the project.
-Run the provided Jupyter notebooks to perform the analysis and generate visualizations.
